@@ -99,8 +99,7 @@
 		F1CE35B52798D84C009D3C8B /* ScannerApp */ = {
 			isa = PBXGroup;
 			children = (
-				F1CE35B62798D84C009D3C8B /* AppDelegate.swift */,
-				F1CE35B82798D84C009D3C8B /* SceneDelegate.swift */,
+				F1CE35E92798DA01009D3C8B /* AppBuilder */,
 				F1CE35BA2798D84C009D3C8B /* ViewController.swift */,
 				F1CE35BF2798D850009D3C8B /* Assets.xcassets */,
 				F1CE35C12798D850009D3C8B /* LaunchScreen.storyboard */,
@@ -124,6 +123,15 @@
 				F1CE35D92798D851009D3C8B /* ScannerAppUITestsLaunchTests.swift */,
 			);
 			path = ScannerAppUITests;
+			sourceTree = "<group>";
+		};
+		F1CE35E92798DA01009D3C8B /* AppBuilder */ = {
+			isa = PBXGroup;
+			children = (
+				F1CE35B62798D84C009D3C8B /* AppDelegate.swift */,
+				F1CE35B82798D84C009D3C8B /* SceneDelegate.swift */,
+			);
+			path = AppBuilder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
